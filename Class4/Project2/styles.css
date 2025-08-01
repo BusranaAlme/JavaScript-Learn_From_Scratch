@@ -1,0 +1,16 @@
+*{
+    background-color: bisque;
+    text-align: center;
+    padding: 0%;
+    margin: auto;
+}
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+input {
+  color: rgb(12, 33, 113);
+  padding: 5px;
+  width: 100px;
+}
