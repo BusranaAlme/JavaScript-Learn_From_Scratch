@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  background: #d5d8f8;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* Specific styling for the friend list */
+#friendlist {
+  background: rgb(230, 146, 146);
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 60px; /* <-- Add spacing below */
+}
+
+/* Specific styling for the fruit list */
+#fruit {
+  background: rgb(181, 242, 142);
+  padding: 10px;
+  border-radius: 6px;
+}
